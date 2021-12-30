@@ -3,5 +3,5 @@ Sorting Rectangle in the list based on Bubble Sort Algorithm and Insertion Algor
 
 Examples
 
-<img src='insertion_sort.gif' width=700>
-<img src='bubble_sort.gif' width=700>
+<img src='assets/insertion_sort.gif' width=700>
+<img src='assets/bubble_sort.gif' width=700>
