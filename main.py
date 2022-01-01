@@ -57,7 +57,6 @@ def main():
                 sorting = True
                 sorting_algorithm_generator = sorting_algorithm(
                     draw_info, ascending)
-                print(sorting_algorithm_generator)
             elif event.key == pygame.K_a and not sorting:
                 ascending = True
             elif event.key == pygame.K_d and not sorting:
