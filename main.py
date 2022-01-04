@@ -67,9 +67,6 @@ def main():
             elif event.key == pygame.K_b and not sorting:
                 sorting_algorithm = bubble_sort
                 sorting_algo_name = 'Bubble Sort'
-            elif event.key == pygame.K_m and not sorting:
-                sorting_algorithm = merge_sort
-                sorting_algo_name = 'Merge Sort'
 
     pygame.quit()
 
