@@ -1,7 +1,7 @@
 import pygame
 import random
 from draw import DrawInfo, draw
-from algorithm import bubble_sort, insertion_sort, merge_sort
+from algorithm import bubble_sort, insertion_sort
 
 
 def generate_starting_list(n, min_val, max_val):
